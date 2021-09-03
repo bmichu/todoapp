@@ -1,2 +1,2 @@
 # toDoApp-React
- Kodilla. React i Webpack
+ Kodilla. React. Redux
